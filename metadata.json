@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Cogni",
+  "description": "An intelligent command-line and system analysis co-pilot, powered by Google Cloud Platform and Hugging Face.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
